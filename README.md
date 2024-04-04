@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing but school projects at the moment.
 - 📫 How to reach me: Don't.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My current record for the hard mode in Google minesweeper is 222 seconds.
+- ⚡ Fun fact: My current record for the hard mode in Google minesweeper is 206 seconds as of 04/03/24.
 
 <!---
 ClaraTheWitch/ClaraTheWitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
