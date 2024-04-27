@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaraTheWitch
 - 👀 I’m interested in computer science, mathematics, history, theater, animation, and video games.
-- 🌱 I’m currently learning latin, single variable calculus, and object oriented programming.
+- 🌱 I’m currently learning latin, integral calculus, and object oriented programming.
 - 💞️ I’m looking to collaborate on nothing but school projects at the moment.
 - 📫 How to reach me: Don't.
 - 😄 Pronouns: she/her
