@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaraTheWitch
 - 👀 I’m interested in computer science, mathematics, history, theater, animation, and video games.
-- 🌱 I’m currently learning medieval history, multivariable calculus, and data structures.
+- 🌱 I’m currently learning economics, multivariable calculus, and data structures.
 - 💞️ I’m looking to collaborate on nothing but school and personal projects at the moment.
 - 📫 How to reach me: Don't.
 - 😄 Pronouns: she/her
