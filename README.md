@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ClaraTheWitch
 - 👀 I’m interested in computer science, mathematics, history, theater, animation, and video games.
-- 🌱 I’m currently learning economics, multivariable calculus, and data structures.
+- 🌱 I’m currently learning about computer organization, data science, and the Tojan War.
 - 💞️ I’m looking to collaborate on nothing but school and personal projects at the moment.
 - 📫 How to reach me: Don't.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My current record for the hard mode in Google minesweeper is 172 seconds as of 04/11/24.
+- ⚡ Fun fact: My current record for the hard mode in Google minesweeper is 146 seconds as of 08/28/24.
 
 <!---
 ClaraTheWitch/ClaraTheWitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
