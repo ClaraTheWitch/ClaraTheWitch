@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClaraTheWitch
-- 👀 I’m interested in computer science, mathematics, history, theater, animation, and video games.
+- 👀 I’m interested in computer science, mathematics, language, history, theater, animation, and video games.
 - 🌱 I’m currently learning about computer organization, data science, and the Tojan War.
 - 💞️ I’m looking to collaborate on nothing but school and personal projects at the moment.
 - 📫 How to reach me: clarasiefkeprofessional@gmail.com
